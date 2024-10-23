@@ -17,8 +17,8 @@ body {
   width: 18rem;
   height: 25rem;
   border-radius: 10px;
-  background-color: #7a839a;
-  box-shadow: 4px 4px 5px #012b61;
+  background-color: black;
+  box-shadow: 4px 4px 5px #1ccb3b;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,7 +27,8 @@ body {
 
 .container-player > h1 {
   font-size: 2rem;
-  color: #b9cfe9;
+  color: #118427;
+  font-family: sans-serif;
 }
 
 .container-album{
@@ -69,4 +70,15 @@ body {
 
 .player_controls > i:hover {
   color: #17e417 
+}
+
+.player__artist{ 
+  font-family: sans-serif;
+  color: #12b630;
+}
+
+.player__song{
+
+  font-family: sans-serif;
+  color: white;
 }

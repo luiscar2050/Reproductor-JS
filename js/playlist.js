@@ -8,18 +8,18 @@ export const playList = [
   {
     title: 'Contigo Quiero Amores',
     artist: 'Arcangel',
-    img: 'img/arcangel.jpg',
+    img: 'img/amores.jpg',
     song: 'music/Arcángel - Contigo Quiero Amores - Arcangel.mp3'
   },
   {
     title: 'W Sound 01 - Soltera',
     artist: 'Blessd',
-    img: 'img/w sound.jpgn',
+    img: 'img/w sound.jfif',
     song: 'music/W Sound 01 - Soltera - Blessd, Westcol, Ovy On the Drums.mp3'
   },
   {
-    title: 'WYA REMIX BLACK AND YELLOW ⚫️🟡',
-    artist: 'J Abdiel, Anuel AA, Blessd, Izaak & Pirlo - J abdiel',
+    title: 'WYA REMIX  ⚫️🟡',
+    artist: 'J Abdiel, Anuel AA, Blessd',
     img: 'img/wya.jpg',
     song: 'music/WYA REMIX BLACK AND YELLOW ⚫️🟡 - J Abdiel, Anuel AA, Blessd, Izaak & Pirlo - J abdiel .mp3'
   },

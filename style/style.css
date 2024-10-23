@@ -14,7 +14,7 @@ body {
 }
 
 .container-player {
-  width: 18rem;
+  width: 19rem;
   height: 30rem;
   border-radius: 10px;
   background-color: rgb(246, 246, 246);
@@ -69,16 +69,18 @@ body {
 }
 
 .player_controls > i:hover {
-  color: #17e417 
+  color: #17e417;
+  
 }
 
 .player__artist{ 
   font-family: sans-serif;
+  text-align: center;
   color: #12b630;
 }
 
 .player__song{
-
   font-family: sans-serif;
+  text-align: center;
   color: black;
 }

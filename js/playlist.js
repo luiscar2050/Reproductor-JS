@@ -18,8 +18,8 @@ export const playList = [
     song: 'music/W Sound 01 - Soltera - Blessd, Westcol, Ovy On the Drums.mp3'
   },
   {
-    title: 'WYA REMIX  ⚫️🟡',
-    artist: 'J Abdiel, Anuel AA, Blessd',
+    title: 'WYA REMIX ⚫️🟡',
+    artist: 'J Abdiel, Anuel AA, Blessd, Izaak & Pirlo',
     img: 'img/wya.jpg',
     song: 'music/WYA REMIX BLACK AND YELLOW ⚫️🟡 - J Abdiel, Anuel AA, Blessd, Izaak & Pirlo - J abdiel .mp3'
   },

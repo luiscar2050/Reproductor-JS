@@ -10,14 +10,14 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('bgBody.avif');
+  background-color: black;
 }
 
 .container-player {
   width: 18rem;
   height: 25rem;
   border-radius: 10px;
-  background-color: black;
+  background-color: rgb(246, 246, 246);
   box-shadow: 4px 4px 5px #1ccb3b;
   display: flex;
   flex-direction: column;
@@ -80,5 +80,5 @@ body {
 .player__song{
 
   font-family: sans-serif;
-  color: white;
+  color: black;
 }

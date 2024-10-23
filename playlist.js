@@ -2,31 +2,31 @@ export const playList = [
   {
     title: 'Tu Te Imaginas',
     artist: 'De la Ghetto',
-    img: '',
+    img: 'img/tu te imaginas.jpg',
     song: 'music/Tu Te Imaginas - De La Ghetto .mp3'
   },
   {
-    title: 'Song 2',
-    artist: 'Artist 2',
-    img: 'ruta de la imagen de la canción',
-    song: 'ruta de la cancion'
+    title: 'Contigo Quiero Amores',
+    artist: 'Arcangel',
+    img: 'img/arcangel.jpg',
+    song: 'music/Arcángel - Contigo Quiero Amores - Arcangel.mp3'
   },
   {
-    title: 'Song 3',
-    artist: 'Artist 3',
-    img: 'ruta de la imagen de la canción',
-    song: 'ruta de la cancion'
+    title: 'W Sound 01 - Soltera',
+    artist: 'Blessd',
+    img: 'img/w sound.jpgn',
+    song: 'music/W Sound 01 - Soltera - Blessd, Westcol, Ovy On the Drums.mp3'
   },
   {
-    title: 'Song 4',
-    artist: 'Artist 4',
-    img: 'ruta de la imagen de la canción',
-    song: 'ruta de la cancion'
+    title: 'WYA REMIX BLACK AND YELLOW ⚫️🟡',
+    artist: 'J Abdiel, Anuel AA, Blessd, Izaak & Pirlo - J abdiel',
+    img: 'img/wya.jpg',
+    song: 'music/WYA REMIX BLACK AND YELLOW ⚫️🟡 - J Abdiel, Anuel AA, Blessd, Izaak & Pirlo - J abdiel .mp3'
   },
   {
-    title: 'Song 5',
-    artist: 'Artist 5',
-    img: 'ruta de la imagen de la canción',
-    song: 'ruta de la cancion'
+    title: 'LOS APARATOS ✈️💰',
+    artist: 'EL ALFA EL CAPO ❌ NORIEL ❌ TRUENO',
+    img: 'img/los aparatos.jpg',
+    song: 'music/EL ALFA EL CAPO ❌ NORIEL ❌ TRUENO - LOS APARATOS ✈️💰  - ElAlfaElJefeTV.mp3'
   },
 ]

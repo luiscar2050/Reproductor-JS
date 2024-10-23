@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('bgBody.avif');
+}
+
+.container-player {
+  width: 18rem;
+  height: 25rem;
+  border-radius: 10px;
+  background-color: #7a839a;
+  box-shadow: 4px 4px 5px #012b61;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+.container-player > h1 {
+  font-size: 2rem;
+  color: #b9cfe9;
+}
+
+.container-album{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
